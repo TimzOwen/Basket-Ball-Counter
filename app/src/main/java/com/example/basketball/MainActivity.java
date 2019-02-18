@@ -12,6 +12,8 @@ import org.w3c.dom.Text;
 public class MainActivity extends AppCompatActivity {
     int scoreTeamA = 0;
     int scoreTeamB = 0;
+    TextVeiw et1,et2;
+    Button btnrename;
 
 
     @Override
